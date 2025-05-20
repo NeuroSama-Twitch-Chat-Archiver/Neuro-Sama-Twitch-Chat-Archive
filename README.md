@@ -22,6 +22,23 @@ The best I can give you is the date and hopefully you can figure it out from the
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
 
 # How To Reach Out
-I'm currently setting up a submission form for the files of streams we do not currently have.
+I've set up a submission form for the files of streams we do not currently have.
 If you need to reach out please do so at:
+
 NeuroSamaTwitchChatArchiver@gmail.com
+
+neurosama_twitch_chat_archiver (discord)
+
+Submission form: https://docs.google.com/forms/d/e/1FAIpQLSeNskIfU3310lmLe8uX9n5kBk2GQR-jEQkrb9FkLGQz9J5z-A/viewform?usp=dialog
+
+(if anyone does actuly end up finding this useful let me know! I'd love to put this on a resume)
+# Contributors
+EN:
+
+KlopFlopPop:
+[10-12-24], [10-14-24], [11-26-24], [3-25-25] ... till curent.
+
+JP:
+
+KlopFlopPop:
+[5-6-25] ... till curent.
