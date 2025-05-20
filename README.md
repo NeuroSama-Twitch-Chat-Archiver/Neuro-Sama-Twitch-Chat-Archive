@@ -13,4 +13,4 @@ Unfortunately, Twitch chat is not always saved or accessible after streams end, 
 This repo ensures that those moments aren’t lost to time.
 
 # How To Render Twitch Chat
-Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to downloade this tool and use it's rendering feature.
+Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
