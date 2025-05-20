@@ -27,3 +27,14 @@ If you need to reach out please do so at:
 NeuroSamaTwitchChatArchiver@gmail.com
 
 neurosama_twitch_chat_archiver (discord)
+
+# Contributors
+EN:
+
+KlopFlopPop:
+[10-12-24], [10-14-24], [11-26-24], [3-25-25] ... till curent.
+
+JP:
+
+KlopFlopPop:
+[5-6-25] ... till curent.
