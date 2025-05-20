@@ -31,6 +31,7 @@ neurosama_twitch_chat_archiver (discord)
 
 Submission form: https://docs.google.com/forms/d/e/1FAIpQLSeNskIfU3310lmLe8uX9n5kBk2GQR-jEQkrb9FkLGQz9J5z-A/viewform?usp=dialog
 
+(if anyone does actuly end up finding this useful this let me know! I'd love to put this on a resume)
 # Contributors
 EN:
 
