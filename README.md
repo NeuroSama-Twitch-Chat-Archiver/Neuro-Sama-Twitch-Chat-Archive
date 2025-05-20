@@ -14,10 +14,14 @@ This repo ensures that those moments aren’t lost to time.
 
 It also provides a valuable resource for clippers, editors, and fans who want to include chat's reactions in their edits/content.
 
+# Which Archive Applies To Which Stream?
+To minimize the effort I need to put into archiving twitch chat, I do not edit the names of the files. All files are named by when the stream happened and what the title of the stream was at the end of stream.
+The best I can give you is the date and hopefully you can figure it out from there if need be.
+
 # How To Render Twitch Chat
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
 
 # How To Reach Out
-I'm curently setting up a submission form for the files of streams we do not curently have.
+I'm currently setting up a submission form for the files of streams we do not currently have.
 If you need to reach out please do so at:
 NeuroSamaTwitchChatArchiver@gmail.com
