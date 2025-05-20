@@ -12,5 +12,7 @@ Neuro's and Evil's streams often feature unique interactions with her audience t
 Unfortunately, Twitch chat is not always saved or accessible after streams end, especially after VODs are removed.
 This repo ensures that those moments aren’t lost to time.
 
+It also provides a valuable resource for clippers, editors, and fans who want to include chat's reactions in their edits/content.
+
 # How To Render Twitch Chat
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
