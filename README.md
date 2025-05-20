@@ -16,3 +16,8 @@ It also provides a valuable resource for clippers, editors, and fans who want to
 
 # How To Render Twitch Chat
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
+
+# How To Reach Out
+I'm curently setting up a submission form for the files of streams we do not curently have.
+If you need to reach out please do so at:
+NeuroSamaTwitchChatArchiver@gmail.com
