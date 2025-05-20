@@ -25,3 +25,4 @@ Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay
 I'm currently setting up a submission form for the files of streams we do not currently have.
 If you need to reach out please do so at:
 NeuroSamaTwitchChatArchiver@gmail.com
+neurosama_twitch_chat_archiver (discord)
