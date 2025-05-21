@@ -21,6 +21,8 @@ The best I can give you is the date and hopefully you can figure it out from the
 # How To Render Twitch Chat
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
 
+Twitch Downloader: https://github.com/lay295/TwitchDownloader
+
 # How To Reach Out
 I've set up a submission form for the files of streams we do not currently have.
 If you need to reach out please do so at:
