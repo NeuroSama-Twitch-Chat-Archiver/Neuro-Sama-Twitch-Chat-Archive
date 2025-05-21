@@ -33,12 +33,4 @@ Submission form: https://docs.google.com/forms/d/e/1FAIpQLSeNskIfU3310lmLe8uX9n5
 
 (if anyone does actuly end up finding this useful let me know! I'd love to put this on a resume)
 # Contributors
-EN:
-
-KlopFlopPop:
-[10-12-24], [10-14-24], [11-26-24], [3-25-25] ... till curent.
-
-JP:
-
-KlopFlopPop:
-[5-6-25] ... till curent.
+All contributors to this project and their are achives are listed under "Contributors"
