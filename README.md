@@ -6,6 +6,9 @@
 - This project is purely for preservation purposes.
 - If requested by Vedal or his team, this repository will be modified or taken down.
 - No monetization is involved or intended.
+- If you own any of the content prersented please message us and we'll swiftly comply
+  Email further down)
+
 
 # Why Archive Chat?
 Neuro's and Evil's streams often feature unique interactions with her audience that shape the tone, pacing, and humor of the content.
@@ -43,7 +46,3 @@ Speadsheet: https://docs.google.com/spreadsheets/d/1ulfDwaLkTsaAgHOL5DghGaEqgYAt
 
 # Contributors
 All contributors to this project and their are achives are listed under "Contributors"
-
-# Other
-If you own any of the content prersented please message us and we'll swiftly comply
-(NeuroSamaTwitchChatArchiver@gmail.com)
