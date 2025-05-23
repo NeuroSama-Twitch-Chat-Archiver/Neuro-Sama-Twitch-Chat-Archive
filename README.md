@@ -6,7 +6,7 @@
 - This project is purely for preservation purposes.
 - If requested by Vedal or his team, this repository will be modified or taken down.
 - No monetization is involved or intended.
-- If you own any of the content prersented please message us and we'll swiftly comply
+- If you own any of the content prersented please message us and we'll swiftly comply.
   (Email further down)
 
 
