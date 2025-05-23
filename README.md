@@ -43,3 +43,7 @@ Speadsheet: https://docs.google.com/spreadsheets/d/1ulfDwaLkTsaAgHOL5DghGaEqgYAt
 
 # Contributors
 All contributors to this project and their are achives are listed under "Contributors"
+
+# Other
+If you own any of the content prersented please message us and we'll swiftly comply
+(NeuroSamaTwitchChatArchiver@gmail.com)
