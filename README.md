@@ -21,6 +21,8 @@ It also provides a valuable resource for clippers, editors, and fans who want to
 To minimize the effort I need to put into archiving twitch chat, I do not edit the names of the files. All files are named by when the stream happened and what the title of the stream was at the end of stream.
 The best I can give you is the date and hopefully you can figure it out from there if need be.
 
+As for the collab chats I've created a document with the file name and a link to the respective stream. If the links are no longer viable for some reason feel free to reach out, we may have an archived version of the stream itself.
+
 # How To Render Twitch Chat
 Each twitch chat file is downloaded by using the tool "Twitch Downloader" by lay295 (Lewis Pardo). To render chat you first need to download this tool and use it's rendering feature.
 
