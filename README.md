@@ -48,5 +48,7 @@ Speadsheet: https://docs.google.com/spreadsheets/d/1ulfDwaLkTsaAgHOL5DghGaEqgYAt
 
 Collab Chat Files Index Document: https://docs.google.com/document/d/1C8MDv3hZEUIQmMLbROWbrMmHRGovna5NPT3dbgnwVW8/edit?usp=sharing 
 
+Dailymotion Acount: https://www.dailymotion.com/neurosamatwitchchatarchiver
+
 # Contributors
 All contributors to this project and their are achives are listed under "Contributors"
