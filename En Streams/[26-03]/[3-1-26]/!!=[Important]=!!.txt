@@ -1,0 +1,15 @@
+!=Important=!
+
+Hello!!
+
+You may have noticed that this folder contains several streams on the date March 1st. This is mostly due to Vedal having extreme scuff that day. Now I wasn't sure how to package these streams since they all share the same name.
+
+My solution to this was to package them in a folder with the following naming scheme:
+
+[Month-Day-Year][#] <- (this being the order of which the streams occurred)
+
+Another reason for the folders instead of just the files is to make it easier on whomever may want these files in specific because of all the streams having the same names. I've also packaged the streams themselves to further reduce confusion since they were so short lol.
+
+Thank you for using the Neuro Sama Twitch Chat Archive!
+
+- KlopFlopPop
